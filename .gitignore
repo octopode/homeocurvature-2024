@@ -49,12 +49,12 @@ po/*~
 rsconnect/
 
 # My own
-*.dat # SAXS profiles ~100 KB each, should be handled using LFS
-*.hf5 # raw SAXS images; definitely too huge!
-*.rds # Large, no need to upload
+/*/*.dat # SAXS profiles ~100 KB each, should be handled using LFS
+/*/*.hf5 # raw SAXS images; definitely too huge!
+/*/*.rds # Large, no need to upload
 #*figs* # These files are too large for now
-*.mpg
-*.mp4
-*.mov
-*.bak*
-*.pyc
+/*/*.mpg
+/*/*.mp4
+/*/*.mov
+/*/*.bak*
+/*/*.pyc
