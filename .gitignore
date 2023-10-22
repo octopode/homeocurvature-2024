@@ -57,3 +57,4 @@ rsconnect/
 *.mp4
 *.mov
 *.bak*
+*.pyc
