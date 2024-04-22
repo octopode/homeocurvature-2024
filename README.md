@@ -12,7 +12,7 @@
 
 1. `01-rawdata` - Mostly SAXS profiles and lipidomics data in ASCII and spreadsheet formats. Some other input files for R scripts are included here.
 
-2. `02-saxsanalysis` - Scripts for and results from parametric fitting of lamellar and inverted SAXS profiles. Data and Shiny code for the (ctenophore SAXS P-T eXplorer)[https://octopode.shinyapps.io/PTX_ctenos_overlay/] are also present here. 
+2. `02-saxsanalysis` - Scripts for and results from parametric fitting of lamellar and inverted SAXS profiles. Data and Shiny code for the [ctenophore SAXS P-T eXplorer](https://octopode.shinyapps.io/PTX_ctenos_overlay/) are also present here. 
 
 3. `02-tidydata` - Intermediate "tidied" lipidomics data files.
 
