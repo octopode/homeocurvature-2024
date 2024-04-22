@@ -1,0 +1,21 @@
+Lattice_constant:	79.3711 +- 0.663
+Lattice_size:	6.5445 +- 2.7046
+Intrinsic_curvature:	-0.0386 +- 0.0015
+Lipid_Volume:	1163.2322 +- 26.1488
+Lipid_Volume_lam:	1144.2697 +- 21.8808
+r_waterCore:	18.8471 +- 1.7008
+Polydispersity:	0.1457 +- 0.03
+Displacement:	5.028 +- 5.3788
+Multiplicative:	0.2577 +- 0.1864
+Additive:	0.0229 +- 0.0039
+Scaling:	1.6199 +- 1.7987
+ScalingBi:	5.2662 +- 0.9584
+Head_Area_lam:	69.0499 +- 8.3409
+
+scaled chi^2:	13.902717724488756
+Head Area at neutral plane (from histogram):	63.5545 +- 6.9011
+Head Area at interface (from histogram):	68.5649 +- 7.2739
+d_head 0:	5.0416 +- 2.3612
+C_0tot 0:	-0.0386 +- 0.0015
+d_backbone averaged:	4.099999999999998
+chi^2:	21.300810955145256
